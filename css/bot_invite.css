@@ -69,3 +69,29 @@ body {
         border-color: #fff;
     }
 }
+
+/* Styles for mobile and small-screen devices */
+@media screen and (max-width: 768px) {
+    .header-container {
+        padding: 32px 16px;
+    }
+
+    .nav-container {
+        padding: 8px;
+    }
+
+    .nav-link {
+        font-size: 14px;
+        margin-right: 4px;
+    }
+
+    .invitation-container {
+        height: auto;
+        padding: 16px;
+    }
+
+    .invite-button {
+        font-size: 16px;
+        padding: 12px 24px;
+    }
+}
