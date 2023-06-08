@@ -28,11 +28,6 @@ body {
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);
 }
 
-.terms-intro p {
-    font-size: 24px;
-    color: #fff;
-}
-
 .header-container {
     padding: 128px 16px;
     text-align: center;
@@ -57,12 +52,6 @@ body {
 
 .nav-link:hover {
     background-color: #666;
-}
-
-.terms-container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex;
 }
 
 .term {
@@ -138,10 +127,6 @@ h2 {
     }
 
     .terms-intro-heading {
-        font-size: 20px;
-    }
-
-    .terms-intro p {
         font-size: 20px;
     }
 
